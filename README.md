@@ -1,4 +1,4 @@
-# auto_acknowledgement
+# Auto_Acknowledgement
 謝辞を自動で作成するプログラムです。参考元となる卒業論文（3つ以上）を用意し、その中から謝辞を抽出します。その謝辞の文体に則って謝辞を作成します。
 
 ## shaji_extraction.py
